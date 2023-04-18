@@ -1,0 +1,31 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Using object-oriented programming and test driven development to build a simple RPG.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meiliou/jest-another-RPG.git"
+  },
+  "keywords": [
+    "Object-oriented",
+    "Programming",
+    "Test",
+    "Driven",
+    "Development",
+    "Jest",
+    "RPG"
+  ],
+  "author": "Mei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meiliou/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/meiliou/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
