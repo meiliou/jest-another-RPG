@@ -27,5 +27,8 @@
   "homepage": "https://github.com/meiliou/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
   }
 }
